@@ -1,0 +1,14 @@
+# Agar node modules tidak terpush ke repository
+
+/node_modules
+
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+.DS_Store
+
+/dist
